@@ -126,6 +126,11 @@ body {
   background: #fff;
 }
 
+.project-stars {
+  font-size: 12px;
+  color: #b45309;
+}
+
 .project-desc {
   margin-top: 4px;
   font-size: 14px;
